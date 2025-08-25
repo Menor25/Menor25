@@ -25,7 +25,7 @@
 
  I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
  <br>
-:telescope: I’m currently working on improving my problem solving skills by building web applications.
+:telescope: I’m currently working on improving my problem-solving skills by building web applications.
 <br>
 :seedling: Exploring Technical Content Writing.
 <br>
@@ -37,7 +37,7 @@
 <br>
 :blush: Pronouns: He/Him/His
 
-:mailbox:How to reach me: ajirimenor@gmail.com
+:mailbox: How to reach me: ajirimenor@gmail.com
 
 :hammer_and_wrench: Languages and Tools :
 <div>
